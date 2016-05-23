@@ -8,7 +8,7 @@ If there are any books which you would like to see added to this list please ema
 ## E-Books
 The books below can be found in the following shared drive \\uranus\data\Development\Books
 
-- Advanced HTML5 and CSS3 Specialist - ISBN:[1118008189]
+- Advanced HTML5 and CSS3 Specialist *[1118008189]*
 - Class design handbook - VB.net
 - Code complete
 - Continuous Delivery - Reliable software releases through build, test and deployent automation
