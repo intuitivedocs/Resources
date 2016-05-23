@@ -6,7 +6,7 @@ Intuitive provides a collection of both hard and electronic copies of books whic
 If there are any books which you would like to see added to this list please email jon@intuitivesystems.co.uk to arrange.
 
 ## E-Books
-The books below can be found in the following shared drive \\uranus\data\Development\Books
+The books below can be found in the following shared drive [\\uranus\data\Development\Books]
 
 - Advanced HTML5 and CSS3 Specialist *[1118008189]*
 - Class design handbook - VB.net *[1590592751]*
@@ -30,6 +30,7 @@ The books below can be found in the following shared drive \\uranus\data\Develop
 - Unit Testing *[1617290890]*
 - Visual studio 2015 succintly
 
+[\\uranus\data\Development\Books]: \\uranus\data\Development\Books
 [1118008189]: https://www.amazon.co.uk/HTML-CSS-Design-Build-Sites/dp/1118008189/ref=sr_1_fkmr0_1?s=books&ie=UTF8&qid=1464002445&sr=1-1-fkmr0&keywords=Advanced+HTML5+and+CSS3+Specialist
 [1590592751]: https://www.amazon.co.uk/Visual-Basic-Class-Design-Handbook/dp/1590592751/ref=sr_1_fkmr2_2?ie=UTF8&qid=1464003151&sr=8-2-fkmr2&keywords=Class+design+handbook+-+VB.net
 [0735619670]: https://www.amazon.co.uk/Code-Complete-Practical-Handbook-Construction/dp/0735619670/ref=sr_1_1?ie=UTF8&qid=1464003220&sr=8-1&keywords=Code+complete
