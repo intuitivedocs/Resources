@@ -35,6 +35,7 @@ The books below can be found in the following shared drive \\uranus\data\Develop
 The books below can be found in the Intuitive book library
 
 - Developing a react edge *[1939902126]*
+- Domain-driven Design: Tackling Complexity in the Heart of Software *[0321125215]*
 - HTML and CSS web standards solutions *[1430216069]*
 - Software Project Survival Guide (Developer Best Practices) *[1572316217]*
 - Software Requirements (Dv-Best Practices) *[0735606315]*
@@ -67,3 +68,4 @@ The books below can be found in the Intuitive book library
 [0735606315]: http://www.amazon.com/gp/product/0735606315/ref=olp_product_details?ie=UTF8&me=
 [1572316217]: https://www.amazon.co.uk/Software-Project-Survival-Developer-Practices/dp/1572316217/ref=sr_1_1?ie=UTF8&qid=1464017757&sr=8-1&keywords=Software+Project+Survival+Guide
 [0321534042]: https://www.amazon.co.uk/Non-Designers-Design-Book-Robin-Williams/dp/0321534042/ref=sr_1_1?ie=UTF8&qid=1464017815&sr=8-1&keywords=0321534042
+[0321125215]: https://www.amazon.co.uk/Domain-driven-Design-Tackling-Complexity-Software/dp/0321125215/ref=sr_1_1?ie=UTF8&qid=1464019257&sr=8-1&keywords=domain+driven+design
