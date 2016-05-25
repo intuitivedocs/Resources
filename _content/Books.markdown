@@ -29,9 +29,10 @@ The books below can be found in the following shared drive \\uranus\data\Develop
 - The principles of beautiful web design *[0992279445]*
 - Unit Testing *[1617290890]*
 - Visual studio 2015 succintly
+- Working Effectively with Legacy Code *[0131177052]*
 
 
-## E-Books
+## Books library
 The books below can be found in the Intuitive book library
 
 - Developing a react edge *[1939902126]*
